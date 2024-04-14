@@ -1,2 +1,2 @@
 # ynlibpackage
-A library for data analysis and visualization
+oss-dev chart python module
